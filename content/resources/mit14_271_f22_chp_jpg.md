@@ -6,10 +6,13 @@ file: /ol-ocw-studio-app/courses/14-271-industrial-organization-i-fall-2022/mit1
 file_size: 197541
 file_type: image/jpeg
 image_metadata:
-  caption: 'Image by [Aero Icarus](https://flickr.com/photos/aero_icarus/26499046141/)
+  caption: 'Planes at a terminal at the Los Angeles International Airport. It is common
+    in the airline industry to utilize price discrimination. Image by [Aero Icarus](https://flickr.com/photos/aero_icarus/26499046141/)
+    on Flickr. License: CC BY-NC-SA.'
+  credit: 'Image by [Aero Icarus](https://flickr.com/photos/aero_icarus/26499046141/)
     on Flickr. License: CC BY-NC-SA'
-  credit: ''
-  image-alt: ''
+  image-alt: 'Planes taxiing on the runway and parked at the gates at Los Angeles
+    International Airport. '
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
