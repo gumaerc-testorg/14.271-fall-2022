@@ -9,10 +9,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 14.271 F22 Lecture 21 Multi Version 2.mp4
+title: 'Lecture 21: Bounded Rationality, Part 2'
 uid: fe6a0d9c-9ee6-466d-ae2f-3eef08db059e
 video_files:
   archive_url: ''
@@ -21,7 +22,20 @@ video_files:
   video_transcript_file: /courses/14-271-industrial-organization-i-fall-2022/1U1sfWxfSyaZDQOOpGfHbfGAhN4vdbXNI_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: "bounded rationality, behavioral economics, decision-making , consumers,\
+    \ computational costs\t\t\t\t\n"
+  youtube_description: "MIT 14.271 Industrial Organization I, Fall 2022 \nInstructor:\
+    \ Glenn Ellison\n\nView the complete course: https://ocw.mit.edu/courses/14-271-industrial-organization-i-fall-2022\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62xkEY0YzLJSoquVBjPOl9S\n\
+    \nGlenn Ellison continues the discussion from the previous lecture about bounded\
+    \ rationality. This lecture looks at it from the approach of rule-of-thumb consumers\
+    \ and computational costs. He also looks at models of advertising and how it affects\
+    \ purchasing.\t\t\t\t\n\nLicense: Creative Commons BY-NC-SA\nMore information\
+    \ at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
+    \ at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion\
+    \ on OCW\u2019s YouTube and other social media channels. Personal attacks, hate\
+    \ speech, trolling, and inappropriate comments are not allowed and may be removed.\
+    \ More details at https://ocw.mit.edu/comments."
   youtube_id: 1YVNvOqy9Gw
 ---
+Glenn Ellison continues the discussion from the previous lecture about bounded rationality. This lecture looks at it from the approach of rule-of-thumb consumers and computational costs. He also looks at advertising.

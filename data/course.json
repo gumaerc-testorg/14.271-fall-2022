@@ -24,7 +24,7 @@
   },
   "course_title": "Industrial Organization I",
   "hide_download": false,
-  "course_description": "14.271 is a Ph.D.-level course in Industrial Organization, introducing students to the basic building blocks of the field and exposing them to a variety of techniques. It is designed to start the process of preparing economics Ph.D. students to conduct thesis research in the area. It is also intended to be of interest to doctoral students working in other areas of economics and related fields. The course integrates theoretical models and empirical studies.",
+  "course_description": "14.271 is a PhD-level course in industrial organization, introducing students to the basic building blocks of the field and exposing them to a variety of techniques. It is designed to start the process of preparing economics PhD students to conduct thesis research in the area. It is also intended to be of interest to doctoral students working in other areas of economics and related fields. The course integrates theoretical models and empirical studies.",
   "department_numbers": [
     "14"
   ],
@@ -34,7 +34,13 @@
     "content": "",
     "website": "industrial-organization-i"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Readings"
+  ],
   "site_uid": "7e149d5b-54e0-4fea-bdf3-6b78ddf74650",
   "site_short_id": "14.271-fall-2022"
 }

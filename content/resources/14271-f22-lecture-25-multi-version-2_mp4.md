@@ -1,7 +1,7 @@
 ---
 body: ''
 content_type: resource
-draft: false
+draft: true
 file: /ol-ocw-studio-app/courses/14-271-industrial-organization-i-fall-2022/14271-f22-lecture-25-multi-version-2_360p_16_9.mp4
 file_size: 153152218
 file_type: video/mp4
@@ -9,10 +9,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 14.271 F22 Lecture 25 Multi Version 2.mp4
+title: 'Lecture 25: Online Markets, Part 1 (old)'
 uid: ce81f2a1-d3cd-4a35-b330-5323b8196c89
 video_files:
   archive_url: ''
@@ -21,7 +22,19 @@ video_files:
   video_transcript_file: /courses/14-271-industrial-organization-i-fall-2022/16wjs8Q5fAUuFfmhBsfMmW0mDgKS080KA_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: 'online marketplace, electronic marketplace, e-commerce, Google
+
+    '
+  youtube_description: "MIT 14.271 Industrial Organization I, Fall 2022 \nInstructor:\
+    \ Glenn Ellison\n\nView the complete course: https://ocw.mit.edu/courses/14-271-industrial-organization-i-fall-2022\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62xkEY0YzLJSoquVBjPOl9S\n\
+    \nGlenn Ellison begins talking about online markets, where all transactions are\
+    \ managed by the website owner. Prof. Ellison focuses the discussion on Google.\
+    \ \t\t\t\t\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\n\
+    More courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\
+    \nWe encourage constructive comments and discussion on OCW\u2019s YouTube and\
+    \ other social media channels. Personal attacks, hate speech, trolling, and inappropriate\
+    \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: 1L4ZjwWMIaA
 ---
+Glenn Ellison begins talking about online markets, where all transactions are managed by the website owner. Prof. Ellison focuses the discussion on Google.
