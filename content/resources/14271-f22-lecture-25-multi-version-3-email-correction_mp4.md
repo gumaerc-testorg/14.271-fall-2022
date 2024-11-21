@@ -1,9 +1,9 @@
 ---
 body: ''
 content_type: resource
-draft: true
-file: /ol-ocw-studio-app/courses/14-271-industrial-organization-i-fall-2022/14271-f22-lecture-25-multi-version-2_360p_16_9.mp4
-file_size: 153152218
+draft: false
+file: /ol-ocw-studio-app/courses/14-271-industrial-organization-i-fall-2022/14271-f22-lecture-25-multi-version-3-email-correction_360p_16_9.mp4
+file_size: 153143948
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -13,18 +13,16 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 25: Online Markets, Part 1 (old)'
-uid: ce81f2a1-d3cd-4a35-b330-5323b8196c89
+title: 'Lecture 25: Online Markets, Part 1'
+uid: 9eee3de6-5b05-45ec-acde-9c856f106056
 video_files:
   archive_url: ''
-  video_captions_file: /courses/14-271-industrial-organization-i-fall-2022/16wjs8Q5fAUuFfmhBsfMmW0mDgKS080KA_transcript.webvtt
-  video_thumbnail_file: https://img.youtube.com/vi/1L4ZjwWMIaA/default.jpg
-  video_transcript_file: /courses/14-271-industrial-organization-i-fall-2022/16wjs8Q5fAUuFfmhBsfMmW0mDgKS080KA_transcript.pdf
+  video_captions_file: /courses/14-271-industrial-organization-i-fall-2022/14271-f22-lecture-25-multi-version-3-email-correction_captions.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/4hs_Q_xxFMI/default.jpg
+  video_transcript_file: /courses/14-271-industrial-organization-i-fall-2022/14271-f22-lecture-25-multi-version-3-email-correction_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: 'online marketplace, electronic marketplace, e-commerce, Google
-
-    '
+  video_tags: online marketplace, electronic marketplace, e-commerce, Google
   youtube_description: "MIT 14.271 Industrial Organization I, Fall 2022 \nInstructor:\
     \ Glenn Ellison\n\nView the complete course: https://ocw.mit.edu/courses/14-271-industrial-organization-i-fall-2022\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62xkEY0YzLJSoquVBjPOl9S\n\
@@ -35,6 +33,6 @@ video_metadata:
     \nWe encourage constructive comments and discussion on OCW\u2019s YouTube and\
     \ other social media channels. Personal attacks, hate speech, trolling, and inappropriate\
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
-  youtube_id: 1L4ZjwWMIaA
+  youtube_id: 4hs_Q_xxFMI
 ---
 Glenn Ellison begins talking about online markets, where all transactions are managed by the website owner. Prof. Ellison focuses the discussion on Google.
