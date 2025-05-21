@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: true
-file: /ol-ocw-studio-app/courses/14-271-industrial-organization-i-fall-2022/14271-f22-lecture-12-version-2_360p_16_9.mp4
+file: courses/industrial-organization-i/14271-f22-lecture-12-version-2_360p_16_9.mp4
 file_size: 180014964
 file_type: video/mp4
 image_metadata:
