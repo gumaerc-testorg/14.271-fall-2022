@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/14-271-industrial-organization-i-fall-2022/mit14_271_f22_lec2slides.pdf
+file: courses/industrial-organization-i/mit14_271_f22_lec2slides.pdf
 file_size: 1268789
 file_type: application/pdf
 image_metadata:

@@ -31,6 +31,6 @@ uid: d5b3d378-2f6a-4973-be1f-b96d52e98680
 
 **Lectures 22-23:** Auctions
 
-**Lecture 24: Advertising**
+**Lecture 24:** Advertising
 
 **Lectures 25–26:** Online Markets
