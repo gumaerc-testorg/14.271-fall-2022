@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/14-271-industrial-organization-i-fall-2022/14271-f22-lecture-12-version-3_captions.vtt
+file: courses/industrial-organization-i/14271-f22-lecture-12-version-3_captions.vtt
 file_size: 124679
 file_type: text/vtt
 image_metadata:

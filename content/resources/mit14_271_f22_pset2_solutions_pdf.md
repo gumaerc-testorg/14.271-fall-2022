@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/14-271-industrial-organization-i-fall-2022/mit14_271_f22_pset2_solutions.pdf
+file: courses/industrial-organization-i/mit14_271_f22_pset2_solutions.pdf
 file_size: 252097
 file_type: application/pdf
 image_metadata:
