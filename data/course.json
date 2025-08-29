@@ -24,6 +24,7 @@
   },
   "course_title": "Industrial Organization I",
   "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "14.271 is a PhD-level course in industrial organization, introducing students to the basic building blocks of the field and exposing them to a variety of techniques. It is designed to start the process of preparing economics PhD students to conduct thesis research in the area. It is also intended to be of interest to doctoral students working in other areas of economics and related fields. The course integrates theoretical models and empirical studies.",
   "department_numbers": [
     "14"
@@ -39,8 +40,10 @@
     "Lecture Notes",
     "Lecture Videos",
     "Problem Sets with Solutions",
-    "Readings"
+    "Readings",
+    "Instructor Insights"
   ],
   "site_uid": "7e149d5b-54e0-4fea-bdf3-6b78ddf74650",
-  "site_short_id": "14.271-fall-2022"
+  "site_short_id": "14.271-fall-2022",
+  "site_url_path": "courses/14-271-industrial-organization-i-fall-2022"
 }
