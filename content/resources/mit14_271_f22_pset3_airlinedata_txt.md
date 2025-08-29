@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/industrial-organization-i/mit14_271_f22_pset3_airlinedata.txt
+file: /ol-ocw-studio-app/courses/14-271-industrial-organization-i-fall-2022/mit14_271_f22_pset3_airlinedata.txt
 file_size: 271749
 file_type: text/plain
 image_metadata:
