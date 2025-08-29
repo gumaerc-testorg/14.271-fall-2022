@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/industrial-organization-i/14271-f22-lecture-25-multi-version-3-email-correction_transcript.pdf
+file: /ol-ocw-studio-app/courses/14-271-industrial-organization-i-fall-2022/14271-f22-lecture-25-multi-version-3-email-correction_transcript.pdf
 file_size: 111814
 file_type: application/pdf
 image_metadata:
