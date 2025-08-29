@@ -7,23 +7,27 @@ leftnav:
   name: Calendar
   pageRef: /pages/calendar
   weight: 20
+- identifier: 3c024801-b9a5-456a-9c80-637818451011
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
 - identifier: 2f959a8d-2548-456e-8892-d81e2f2afd3b
   name: Readings
   pageRef: /pages/readings
-  weight: 30
+  weight: 40
 - identifier: c0ae33a1-3c54-48e4-9f5f-4b6d8fcc7ee2
   name: Lecture Videos
   pageRef: /video_galleries/lecture-videos
-  weight: 40
+  weight: 50
 - identifier: 2c8894ae-cf07-4975-aba1-cd0dd1a4c281
   name: Lecture Notes
   pageRef: /lists/lecture-notes
-  weight: 50
+  weight: 60
 - identifier: 8774bc9c-f951-4814-8b15-d3725eced6aa
   name: Assignments
   pageRef: /pages/assignments
-  weight: 60
+  weight: 70
 - identifier: 1d56e8c9-78d3-41ac-bc2d-759325d9504a
   name: Exams
   pageRef: /pages/exams
-  weight: 70
+  weight: 80
