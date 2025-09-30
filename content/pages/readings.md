@@ -7,7 +7,7 @@ uid: 2f959a8d-2548-456e-8892-d81e2f2afd3b
 ---
 The primary text for the course:
 
-\[JT\] Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/9780262200714/the-theory-of-industrial-organization/)*.* MIT Press, 1988. ISBN: 9780262200714
+\[JT\] Tirole, Jean. {{% resource_link "3c2f0829-4b52-494c-9111-92a13e5a2f44" "*The Theory of Industrial Organization*" %}}*.* MIT Press, 1988. ISBN: 9780262200714
 
 **Lectures 1–2: Monopoly Pricing and Durable Goods**
 
