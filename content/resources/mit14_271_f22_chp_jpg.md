@@ -7,10 +7,11 @@ file_size: 197541
 file_type: image/jpeg
 image_metadata:
   caption: 'Planes at a terminal at the Los Angeles International Airport. It is common
-    in the airline industry to utilize price discrimination. Image by [Aero Icarus](https://flickr.com/photos/aero_icarus/26499046141/)
-    on Flickr. License: CC BY-NC-SA.'
-  credit: 'Image by [Aero Icarus](https://flickr.com/photos/aero_icarus/26499046141/)
-    on Flickr. License: CC BY-NC-SA'
+    in the airline industry to utilize price discrimination. Image by {{% resource_link
+    "025bc50d-5b5f-475a-8777-4408952d9d61" "Aero Icarus" %}} on Flickr. License: CC
+    BY-NC-SA.'
+  credit: 'Image by {{% resource_link "025bc50d-5b5f-475a-8777-4408952d9d61" "Aero
+    Icarus" %}} on Flickr. License: CC BY-NC-SA'
   image-alt: 'Planes taxiing on the runway and parked at the gates at Los Angeles
     International Airport. '
 learning_resource_types: []
