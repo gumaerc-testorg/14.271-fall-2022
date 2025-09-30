@@ -21,7 +21,7 @@ There are no prerequisites.
 
 There is one primary text for the course:
 
-Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/9780262200714/the-theory-of-industrial-organization/)*.* Cambridge: MIT Press, 1988. ISBN: 9780262200714
+Tirole, Jean. {{% resource_link "3c2f0829-4b52-494c-9111-92a13e5a2f44" "*The Theory of Industrial Organization*" %}}*.* Cambridge: MIT Press, 1988. ISBN: 9780262200714
 
 The text provides an overview of many of the theoretical topics. The text will be supplemented with a large number of recent and classic journal articles listed below. The starred readings are required. 
 

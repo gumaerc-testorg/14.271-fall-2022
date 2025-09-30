@@ -39,7 +39,7 @@ None
 
 ### Requirements Satisfied
 
-14.271 is a required course for the [PhD in Economics](https://economics.mit.edu/academic-programs/phd-program/curriculum-and-thesis) for students who are specializing in industrial organization as their major or minor field of study. 
+14.271 is a required course for the {{% resource_link "d93d2d98-8ee8-4650-82ce-6d04ecbaf214" "PhD in Economics" %}} for students who are specializing in industrial organization as their major or minor field of study. 
 
 ### Offered
 
